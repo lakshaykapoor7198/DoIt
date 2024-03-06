@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tasks</string>
+    <string name="add_todo_item">Add todo item</string>
+    <string name="add_todo_item_title_here">Add todo item title here</string>
+    <string name="choose_date_and_time">Choose Date and Time</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="choose_time">Time</string>
+    <string name="choose_date">Date</string>
+    <string name="channel_name">do-it-channel</string>
+    <string name="channel_id">do-it-channel-id</string>
+    <string name="channel_description">do-it-channel used for creating notifications</string>
+    <string name="tasks">Tasks</string>
+    <string name="add">Add</string>
+    <string name="title">Title</string>
+    <string name="todotitle">todoTitle</string>
+    <string name="todoitemactivityTag">TodoItemActivity</string>
+    <string name="todo_list">todo-list</string>
+    <string name="doitapptag">DoItAppTag</string>
+</resources>

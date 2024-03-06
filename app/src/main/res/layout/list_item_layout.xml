@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="2dp"
+    android:background="@color/black">
+    <TextView
+        android:id="@+id/todoItemDate"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:textColor="@color/white"
+        android:padding="15dp"
+        android:textSize="15sp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:id="@+id/todoItemTitle"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:textColor="@color/white"
+        android:padding="15dp"
+        android:textSize="15sp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"/>
+    <ImageButton
+        android:id="@+id/removeTodoItem"
+        android:layout_width="0dp"
+        android:layout_weight="0.5"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:src="@drawable/tick_mark_white"
+        android:background="@color/black"
+        />
+</LinearLayout>
